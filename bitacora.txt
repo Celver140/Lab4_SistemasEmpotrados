@@ -1,0 +1,10 @@
+Cuaderno de bitácora: 	PRACTICA 4 
+
+Celia Redondo Verdú
+Natalia Sempere Maciá
+---------------------------------------------------
+
+* 23/11/2023: 
+	- explicación del profesor sobre el funcionamiento y 
+flujo de diseño de las FPGAs. 
+	- Instalación de apio y primera prueba sobre el ejemplo "Hola Mundo"
